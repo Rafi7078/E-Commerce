@@ -1,0 +1,1 @@
+Enclosed is the amazon.sql database file, which contains the necessary database schema and initial data. If you wish to integrate the database into the system, please utilize this file. We hope this facilitates a smooth setup and enhances your implementation process.
